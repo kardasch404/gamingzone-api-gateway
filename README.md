@@ -1,1 +1,1 @@
-# xt-rt
+# gamingzone-api-gateway
